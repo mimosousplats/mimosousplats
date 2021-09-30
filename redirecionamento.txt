@@ -1,12 +1,6 @@
+<!DOCTYPE html>
 <html>
-
-<head>
-  <meta http-equiv='refresh' content='10;url=https://www.mimosousplats.com.br' />
-  <title>Redirect Page</title>
-</head>
-
-<body>
-  <p class="count">Redirect Page </p>
-</body>
-
+  <head>
+    <meta http-equiv="Refresh" content="0; url=https://mimosousplats.nlojas.com" />
+  </head>
 </html>
